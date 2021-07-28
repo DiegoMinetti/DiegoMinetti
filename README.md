@@ -4,5 +4,8 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegominetti&show_icons=true)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegominetti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegominetti)](https://github.com/anuraghazra/github-readme-stats)
+<br />
